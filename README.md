@@ -15,6 +15,8 @@ How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 * The percentages breakdown of paid 5 star was 41.6% and the 5 start not paid was 53%.
 
+![github](challange_photo.PNG)
+
 # Summary: 
 
 * You can clearly see after running this review that there is a much high percentage of unpaid 5 star reviews compared to that of the 5 star paid reviews.  Along with there being a high percentage of 5 star reviews being unpaid there is a much high number of total reviews being unpaid.
